@@ -1,0 +1,2 @@
+PASS threshold preserved; shrunk-heap recovery clears the flag; recovered edits avoid forced GC
+2026-10-25T04:30:58.215411672Z main ERROR Log4j API could not find a logging provider.

@@ -1,0 +1,4 @@
+2026-10-25T04:30:58.610291345Z main ERROR Log4j API could not find a logging provider.
+Exception in thread "main" java.lang.IllegalStateException: Recovered heap must clear the stale flag
+	at RecoveryTestKt.main(RecoveryTest.kt:15)
+	at RecoveryTestKt.main(RecoveryTest.kt)

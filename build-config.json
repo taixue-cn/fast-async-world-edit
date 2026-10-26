@@ -1,0 +1,8 @@
+{
+  "artifact": "FastAsyncWorldEdit-Paper-2.16.1.jar",
+  "compile": [
+    "source/MemUtil.java"
+  ],
+  "resources": [],
+  "original_sha256": "b46a10a0be5322bb4c0a561d47918a2e0b45afdd7931f750c5072901aebf005e"
+}
